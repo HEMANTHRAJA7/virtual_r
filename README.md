@@ -1,6 +1,6 @@
 # Virtual_r
 
-The website is live on https://virtual-r-neon.vercel.app/
+The website is live at https://virtual-r-neon.vercel.app/
 
 This is a landing page for a virtual reality software company.
 
